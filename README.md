@@ -1,4 +1,5 @@
-# Hi there, I'm Malak Alaa Mohamed! 👋 ### 🤖 AI Engineer | Machine Learning Enthusiast I am a detailed-oriented Artificial Intelligence student at **Helwan University** (GPA: 3.66/4.00) with a passion for building intelligent solutions to real-world problems. I am currently expanding my expertise in **Computer Vision** and **NLP** through the DEPI Microsoft Machine Learning track. ---
+# Hi there, I'm Malak Alaa Mohamed! 👋 
+## 🤖 AI Engineer | Machine Learning Enthusiast I am a detailed-oriented Artificial Intelligence student at **Helwan University**  with a passion for building intelligent solutions to real-world problems. I am currently expanding my expertise in **Computer Vision** and **NLP** through the DEPI Microsoft Machine Learning track. ---
 
 ### 🛠️ Technical Stack
 
