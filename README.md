@@ -13,7 +13,11 @@
 
 ### 💼 Experience
 
-* **Machine Learning Engineer Track Trainee** @ **DEPI (Partnered with Microsoft)** _(Jul 2025 - Present)_ * Intensive training in Model Development, CV, and NLP. * **Machine Learning Engineer Intern** @ **GTC Genius Technology Center** _(Sep 2025 - Oct 2025)_ * Contributed to the full ML lifecycle: preprocessing, feature engineering, and model training. * **AI Instructor** @ **IEEE Banha University** _(Aug 2025 - Sep 2025)_ * Designed curriculum for "AI Camp 2025" and mentored participants on capstone projects. * **Machine Learning Intern** @ **Neurotrix** _(Jul 2024 - Sep 2024)_ * Focus on data analysis, cleaning, and implementation of ML algorithms. ---
+#### * **Machine Learning Engineer Track Trainee** @ **DEPI (Partnered with Microsoft)** _(Jul 2025 - Present)_ * Intensive training in Model Development, CV, and NLP.
+#### *  * **Machine Learning Engineer Intern** @ **GTC Genius Technology Center** _(Sep 2025 - Oct 2025)_ * Contributed to the full ML lifecycle: preprocessing, feature engineering, and model training. 
+#### * **AI Instructor** @ **IEEE Banha University** _(Aug 2025 - Sep 2025)_ * Designed curriculum for "AI Camp 2025" and mentored participants on capstone projects.
+#### * **Machine Learning Intern** @ **Neurotrix** _(Jul 2024 - Sep 2024)_ * Focus on data analysis, cleaning, and implementation of ML algorithms. 
+#### * **CIB Egypt  summer intern** 
 
 ### 🌐 Languages
 * **Arabic:** Native * **English:** Fluent * **French:** Fluent (DELF A1-B2 Certified) ---
