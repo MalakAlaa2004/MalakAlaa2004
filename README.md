@@ -7,7 +7,9 @@
 
 ### 🔭 Featured Projects
 
-#### 🧬 **Diabetes Prediction Model** * Developed a predictive model to classify individuals as diabetic or non-diabetic based on diagnostic measurements. * **Tech:** Compared performance between Logistic Regression, SVM, and Random Forest. #### 🧩 **Maze Solver Application** * Implemented multiple search algorithms including DFS, BFS, $A^*$, Bellman-Ford, and Dijkstra. * **Tech:** Python with GUI for practical AI simulations. #### 💰 **Expense Tracker with Visualization** * A Python application that helps users record, manage, and visualize daily expenses via CSV storage. * **Tech:** Python, Pandas, Matplotlib, Streamlit. #### 🗓️ **University Timetabling Optimization** * Automated schedule generation using evolutionary algorithms. * **Tech:** Particle Swarm Optimization (PSO) and Genetic Algorithms. ---
+#### 🧬 **Diabetes Prediction Model** * Developed a predictive model to classify individuals as diabetic or non-diabetic based on diagnostic measurements. * **Tech:** Compared performance between Logistic Regression, SVM, and Random Forest. #### 🧩 **Maze Solver Application** * Implemented multiple search algorithms including DFS, BFS, $A^*$, Bellman-Ford, and Dijkstra. * **Tech:** Python with GUI for practical AI simulations.
+#### 💰 **Expense Tracker with Visualization** * A Python application that helps users record, manage, and visualize daily expenses via CSV storage. * **Tech:** Python, Pandas, Matplotlib, Streamlit.
+#### 🗓️ **University Timetabling Optimization** * Automated schedule generation using evolutionary algorithms. * **Tech:** Particle Swarm Optimization (PSO) and Genetic Algorithms. 
 
 ### 💼 Experience
 
