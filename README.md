@@ -17,12 +17,12 @@
 <br />
 
 ### 👩‍💻 About Me
-[cite_start]I am a motivated and detail-oriented **Artificial Intelligence student at Helwan University** (Class of 2026) with a strong academic record (**GPA: 3.66/4.00**)[cite: 9, 13]. [cite_start]I am passionate about applying intelligent solutions to real-world problems, with extensive experience in **Machine Learning, Data Science, and Natural Language Processing**[cite: 10, 15].
+I am a motivated and detail-oriented **Artificial Intelligence student at Helwan University** (Class of 2026) with a strong academic record (**GPA: 3.66/4.00**). [cite_start]I am passionate about applying intelligent solutions to real-world problems, with extensive experience in **Machine Learning, Data Science, and Natural Language Processing**[cite: 9, 10, 13].
 
 * [cite_start]🔭 **Currently working on:** Advanced Machine Learning Engineering tracks with **DEPI & Microsoft**[cite: 15].
 * [cite_start]🌱 **I’m currently learning:** Deep Learning frameworks (TensorFlow/PyTorch) and Computer Vision[cite: 15].
 * 👯 **I’m looking to collaborate on:** Open-source AI projects and innovative ML applications.
-* [cite_start]💬 **Ask me about:** Python, Scikit-learn, Genetic Algorithms, and French (Fluent)[cite: 15, 30, 39, 48].
+* [cite_start]💬 **Ask me about:** Python, Scikit-learn, Genetic Algorithms, and French (Fluent)[cite: 39, 48].
 
 ---
 
@@ -42,23 +42,22 @@
 | **08/2025 - 09/2025** | **AI Instructor** | **IEEE Banha University** | [cite_start]Designed technical curriculum for "AI Camp 2025" and mentored students on capstone projects[cite: 15]. |
 | **07/2024 - 09/2024** | **ML Intern** | **Neurotrix** | [cite_start]Focused on data analysis, cleaning, and algorithm implementation on real-world datasets[cite: 15]. |
 
-
 ---
 
 ### 💻 Featured Projects
 
 #### 🧠 AI & Algorithms
-* [cite_start]**Maze Solver Application:** Implemented advanced search algorithms including DFS, BFS, $A^*$, Bellman-Ford, and Dijkstra using Python and GUI[cite: 49, 50].
-* [cite_start]**University Timetabling Optimization:** Automated schedule generation using **Particle Swarm Optimization (PSO)** and **Genetic Algorithms**[cite: 47, 48].
+* [cite_start]**Maze Solver Application:** Implemented advanced search algorithms including DFS, BFS, $A^*$, Bellman-Ford, and Dijkstra using Python and GUI[cite: 50].
+* [cite_start]**University Timetabling Optimization:** Automated schedule generation using **Particle Swarm Optimization (PSO)** and **Genetic Algorithms**[cite: 48].
 
 #### 📊 Predictive Modeling & Data Science
-* [cite_start]**Diabetes Prediction Model:** Comparative analysis using Logistic Regression, SVM, and Random Forest to classify diagnostic measurements[cite: 41, 42].
-* [cite_start]**Predictive Modeling for Agriculture:** Built a multi-class classification model to predict crop types and identify key performance features[cite: 52, 53].
+* [cite_start]**Diabetes Prediction Model:** Comparative analysis using Logistic Regression, SVM, and Random Forest to classify diagnostic measurements[cite: 42].
+* [cite_start]**Predictive Modeling for Agriculture:** Built a multi-class classification model to predict crop types and identify key performance features[cite: 53, 54].
 * [cite_start]**Customer Churn Prediction:** Utilized ensemble learning techniques to predict customer retention in the telecom sector[cite: 57].
 
 #### 💬 NLP & Applications
-* [cite_start]**Sentiment Analysis:** Applied Natural Language Processing techniques using **Recurrent Neural Networks (RNN)**[cite: 55].
-* [cite_start]**Expense Tracker:** A Python application with Data Visualization (Pandas/Matplotlib) to track spending trends[cite: 43, 46].
+* [cite_start]**Sentiment Analysis:** Applied Natural Language Processing techniques using **Recurrent Neural Networks (RNN)**[cite: 56].
+* [cite_start]**Expense Tracker:** A Python application with Data Visualization (Pandas/Matplotlib) to track spending trends[cite: 44, 45].
 
 ---
 
@@ -76,13 +75,6 @@
     * [cite_start]Programming with JavaScript (Meta) [cite: 76]
     * [cite_start]Oracle Java Certification: Data Types & Inheritance [cite: 86]
 * **Languages:**
-    * [cite_start]DELF A1, A2, B1, B2 (Institut Français d'Égypte) [cite: 58, 59]
+    * [cite_start]DELF A1, A2, B1, B2 (Institut Français d'Égypte) [cite: 59]
 
 </details>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakAlaa2004&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakAlaa2004&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
