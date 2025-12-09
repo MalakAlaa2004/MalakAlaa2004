@@ -1,80 +1,101 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Malak+Alaa+Mohamed;AI+Engineer+&+ML+Enthusiast;Computer+Science+Student;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Malak%20Alaa%20Mohamed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Innovative%20Thinker&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions+with+AI;Transforming+Data+into+Decisions;Open+Source+Enthusiast;Helwan+University+Student+(GPA:+3.66)" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/malak-alaa-1516b1277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:loka.lolo2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://malakalaa-ai-portfolio-a7h6ox9.gamma.site">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
 </div>
 
 <br />
 
-### 👩‍💻 About Me
-I am a motivated and detail-oriented **Artificial Intelligence student at Helwan University** (Class of 2026) with a strong academic record (**GPA: 3.66/4.00**). [cite_start]I am passionate about applying intelligent solutions to real-world problems, with extensive experience in **Machine Learning, Data Science, and Natural Language Processing**[cite: 9, 10, 13].
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👩‍💻 About Me</h3>
+      <p>I am a passionate <b>AI Engineering Student</b> at <b>Helwan University</b> 🎓. My journey is defined by a curiosity for how machines learn and a drive to solve real-world problems through code.</p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Deep Learning & Computer Vision (DEPI Microsoft Track)</li>
+        <li>💡 <b>Internships:</b> GTC, Neurotrix, IEEE Banha</li>
+        <li>🌱 <b>Learning:</b> TensorFlow, PyTorch, Advanced NLP</li>
+        <li>💬 <b>Languages:</b> Arabic (Native), English (Fluent), French (Fluent)</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🛠️ Tech Stack</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,vscode,idea" />
+          <br/>
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,opencv,md" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-* [cite_start]🔭 **Currently working on:** Advanced Machine Learning Engineering tracks with **DEPI & Microsoft**[cite: 15].
-* [cite_start]🌱 **I’m currently learning:** Deep Learning frameworks (TensorFlow/PyTorch) and Computer Vision[cite: 15].
-* 👯 **I’m looking to collaborate on:** Open-source AI projects and innovative ML applications.
-* [cite_start]💬 **Ask me about:** Python, Scikit-learn, Genetic Algorithms, and French (Fluent)[cite: 39, 48].
+<h3>🚀 Professional Journey</h3>
+<div align="center">
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Role & Company</th>
+      <th>Key Achievement</th>
+    </tr>
+    <tr>
+      <td><b>07/2025 - Present</b></td>
+      <td>🤖 <b>ML Engineer Trainee</b><br/><i>DEPI Microsoft</i></td>
+      <td>Developing advanced models in CV & NLP; mastering the full ML lifecycle.</td>
+    </tr>
+    <tr>
+      <td><b>09/2025 - 10/2025</b></td>
+      <td>📊 <b>ML Engineer Intern</b><br/><i>Genius Tech Center (GTC)</i></td>
+      <td>Preprocessed complex datasets and engineered features for predictive models.</td>
+    </tr>
+    <tr>
+      <td><b>08/2025 - 09/2025</b></td>
+      <td>🎓 <b>AI Instructor</b><br/><i>IEEE Banha University</i></td>
+      <td>Designed "AI Camp 2025" curriculum and mentored students on capstone projects.</td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
 
-### 🛠️ Technical Arsenal
-| **Languages** | **AI & ML** | **Tools & Concepts** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Databases](https://img.shields.io/badge/Databases-4479A1?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+<h3>💻 Featured Projects</h3>
 
----
+| Project | Type | Description | Tech Used |
+| :--- | :---: | :--- | :--- |
+| **Maze Solver** | 🧩 Algorithm | Implemented DFS, BFS, A*, and Dijkstra search algorithms with a custom GUI. | `Python` `Algorithms` |
+| **Diabetes Prediction** | 🏥 Healthcare | Classified patients using Logistic Regression, SVM, and Random Forest. | `ML` `Scikit-learn` |
+| **Agri-Predict** | 🌾 Agriculture | Multi-class classification model to predict optimal crop types based on soil data. | `Data Science` `Pandas` |
+| **Timetable Opt.** | ⚙️ Automation | Automated university scheduling using **Genetic Algorithms** & **PSO**. | `AI` `Optimization` |
+| **Telecom Churn** | 📉 Business | Predicted customer retention using ensemble learning techniques. | `Analytics` `Ensemble` |
 
-### 🚀 Professional Experience
+<br/>
 
-| Period | Role | Company / Organization | Key Highlights |
-| :--- | :--- | :--- | :--- |
-| **07/2025 - Present** | **ML Engineer Trainee** | **DEPI Microsoft** | [cite_start]Developing practical skills in CV & NLP; working on model development and evaluation[cite: 15]. |
-| **09/2025 - 10/2025** | **ML Engineer Intern** | **GTC (Genius Tech Center)** | [cite_start]Contributed to the full ML model lifecycle: preprocessing, feature engineering, and validation[cite: 15]. |
-| **08/2025 - 09/2025** | **AI Instructor** | **IEEE Banha University** | [cite_start]Designed technical curriculum for "AI Camp 2025" and mentored students on capstone projects[cite: 15]. |
-| **07/2024 - 09/2024** | **ML Intern** | **Neurotrix** | [cite_start]Focused on data analysis, cleaning, and algorithm implementation on real-world datasets[cite: 15]. |
-
----
-
-### 💻 Featured Projects
-
-#### 🧠 AI & Algorithms
-* [cite_start]**Maze Solver Application:** Implemented advanced search algorithms including DFS, BFS, $A^*$, Bellman-Ford, and Dijkstra using Python and GUI[cite: 50].
-* [cite_start]**University Timetabling Optimization:** Automated schedule generation using **Particle Swarm Optimization (PSO)** and **Genetic Algorithms**[cite: 48].
-
-#### 📊 Predictive Modeling & Data Science
-* [cite_start]**Diabetes Prediction Model:** Comparative analysis using Logistic Regression, SVM, and Random Forest to classify diagnostic measurements[cite: 42].
-* [cite_start]**Predictive Modeling for Agriculture:** Built a multi-class classification model to predict crop types and identify key performance features[cite: 53, 54].
-* [cite_start]**Customer Churn Prediction:** Utilized ensemble learning techniques to predict customer retention in the telecom sector[cite: 57].
-
-#### 💬 NLP & Applications
-* [cite_start]**Sentiment Analysis:** Applied Natural Language Processing techniques using **Recurrent Neural Networks (RNN)**[cite: 56].
-* [cite_start]**Expense Tracker:** A Python application with Data Visualization (Pandas/Matplotlib) to track spending trends[cite: 44, 45].
-
----
-
-### 🏆 Certifications
 <details>
-<summary>Click to view full list</summary>
+<summary><b>🏆 Click to view Certifications & Awards</b></summary>
+<br/>
 
-* **AI & Data Science:**
-    * [cite_start]Supervised Learning with Scikit-learn (DataCamp) [cite: 82]
-    * [cite_start]Tree-Based Models in Python (DataCamp) [cite: 68]
-    * [cite_start]Artificial Intelligence Foundations: Thinking Machines (LinkedIn) [cite: 71]
-    * [cite_start]Generative AI Readiness (LinkedIn) [cite: 74]
-* **Development:**
-    * [cite_start]Intro to Frontend Development (Meta) [cite: 64]
-    * [cite_start]Programming with JavaScript (Meta) [cite: 76]
-    * [cite_start]Oracle Java Certification: Data Types & Inheritance [cite: 86]
-* **Languages:**
-    * [cite_start]DELF A1, A2, B1, B2 (Institut Français d'Égypte) [cite: 59]
+* **AI & Data:** Supervised Learning (DataCamp), Thinking Machines (LinkedIn)
+* **Web:** Frontend Dev (Meta), JavaScript (Meta)
+* **Languages:** DELF A1-B2 (Institut Français)
 
 </details>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
