@@ -1,4 +1,4 @@
-]<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Malak%20Alaa%20Mohamed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Deep%20Learning%20Specialist&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 </div>
 
