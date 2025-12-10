@@ -1,125 +1,119 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Malak%20Alaa%20Mohamed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Deep%20Learning%20Specialist&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi,+I'm+Malak+Alaa+Mohamed;AI+Engineering+Student;Machine+Learning+Enthusiast;Data+Science+Practitioner" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions+with+AI;Transforming+Data+into+Decisions;Specializing+in+Computer+Vision+&+NLP;Helwan+University+Student" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <h3>🚀 Aspiring AI Engineer | 🎓 Class of 2026, Helwan University</h3>
+  
+  <p>
+    I am a motivated and detail-oriented <b>Artificial Intelligence student</b> with a <b>GPA of 3.66/4.00</b>, passionate about applying intelligent solutions to real-world problems. I have extensive internship experience ranging from <b>Microsoft DEPI</b> to <b>CIB Egypt</b>, with a strong focus on Machine Learning, Computer Vision, and NLP.
+  </p>
+  
   <a href="https://linkedin.com/in/malak-alaa-1516b1277">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:loka.lolo2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://malakalaa-ai-portfolio-a7h6ox9.gamma.site">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=kofi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
-<br />
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Languages** | **AI & Machine Learning** | **Data Science** | **Tools & Platforms** |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+
+</div>
+
+---
+
+### 💼 Experience
+
+| Year | Role | Organization | Key Achievements |
+| :--- | :--- | :--- | :--- |
+| **2025** | **Machine Learning Engineer Trainee** | **DEPI Microsoft** | Training in CV & NLP using deep learning frameworks (TensorFlow/PyTorch). |
+| **2025** | **ML Engineer Intern** | **Genius Tech Center** | Developed and validated ML algorithms; handled full model lifecycle. |
+| **2025** | **AI Instructor** | **IEEE Banha Univ.** | Designed curriculum for "AI Camp 2025"; mentored students on capstone projects. |
+| **2024** | **ML Intern** | **Neurotrix** | Focused on data cleaning, analysis, and algorithm implementation. |
+| **2023** | **Summer Intern** | **CIB Egypt** | **Winner of LinkedIn competition**; focus on Digital Banking & Innovation. |
+
+---
+
+### 💻 Featured Projects
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>👩‍💻 About Me</h3>
-      <p>I am a passionate <b>AI Engineering Student</b> at <b>Helwan University</b> 🎓. My journey is defined by a curiosity for how machines learn and a drive to solve real-world problems through code.</p>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Deep Learning & Computer Vision (DEPI Microsoft Track)</li>
-        <li>💡 <b>Experience:</b> Internships at GTC, Neurotrix, CIB & IEEE.</li>
-        <li>🌱 <b>Learning:</b> TensorFlow, PyTorch, Advanced NLP.</li>
-        [cite_start]<li>💬 <b>Languages:</b> Arabic (Native), English (Fluent), French (Fluent) [cite: 36-39].</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>🛠️ Tech Stack</h3>
+    <td width="50%">
+      <h3 align="center">🧩 Maze Solver Application</h3>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,vscode,idea" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,opencv,md" />
-        </a>
+        Implemented multiple search algorithms (DFS, BFS, A*, Bellman-Ford, Dijkstra) in Python with a GUI to visualize pathfinding logic.
       </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Algorithms-A*_Search-blue" />
+        <img src="https://img.shields.io/badge/Python-GUI-yellow" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗓️ University Timetabling</h3>
+      <p align="center">
+        Optimized schedule generation using <b>Particle Swarm Optimization</b> and <b>Genetic Algorithms</b> to automate complex constraint solving.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI-Genetic_Algo-green" />
+        <img src="https://img.shields.io/badge/Optimization-PSO-orange" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 Sentiment Analysis (RNN)</h3>
+      <p align="center">
+        Applied NLP techniques using Recurrent Neural Networks (RNN) to classify text sentiment with high accuracy.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/DL-RNN-red" />
+        <img src="https://img.shields.io/badge/NLP-Text_Analysis-blue" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 Diabetes Prediction Model</h3>
+      <p align="center">
+        Comparative analysis between Logistic Regression, SVM, and Random Forest to classify individuals based on diagnostic measurements.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/ML-Scikit_Learn-orange" />
+        <img src="https://img.shields.io/badge/Data-Healthcare-green" />
+      </div>
     </td>
   </tr>
 </table>
 
-<h3>🚀 Professional Journey</h3>
+---
+
+### 🌐 Languages
+I am capable of working in trilingual environments:
+* [cite_start]**Arabic:** Native [cite: 36, 37]
+* [cite_start]**English:** Fluent [cite: 38]
+* [cite_start]**French:** Fluent (DELF A1, A2, B1, B2 Certified) [cite: 39, 59]
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <table>
-    <tr>
-      <th>Date</th>
-      <th>Role & Company</th>
-      <th>Key Achievement</th>
-    </tr>
-    <tr>
-      <td><b>07/2025 - Present</b></td>
-      <td>🤖 <b>ML Engineer Trainee</b><br/><i>DEPI Microsoft</i></td>
-      <td>Developing practical skills in model development, preprocessing, and evaluation.</td>
-    </tr>
-    <tr>
-      <td><b>09/2025 - 10/2025</b></td>
-      <td>📊 <b>ML Engineer Intern</b><br/><i>Genius Tech Center (GTC)</i></td>
-      <td>Contributed to full ML lifecycle: preprocessing, feature engineering, and training.</td>
-    </tr>
-    <tr>
-      <td><b>08/2025 - 09/2025</b></td>
-      <td>🎓 <b>AI Instructor</b><br/><i>IEEE Banha University</i></td>
-      <td>Designed "AI Camp 2025" curriculum and mentored participants on capstone projects.</td>
-    </tr>
-    <tr>
-      <td><b>07/2024 - 08/2024</b></td>
-      <td>🏦 <b>Summer Intern</b><br/><i>CIB Egypt</i></td>
-      [cite_start]<td>Focused on digital banking innovation and cross-functional teamwork[cite: 23].</td>
-    </tr>
-    <tr>
-      <td><b>07/2023 - 08/2023</b></td>
-      <td>🏦 <b>Summer Intern</b><br/><i>CIB Egypt</i></td>
-      <td>Explored AI, Cybersecurity, & Data Science; [cite_start]<b>Won LinkedIn competition</b>[cite: 27, 28].</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakAlaa2004&show_icons=true&theme=radical&hide_border=true" alt="Malak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakAlaa2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<br/>
-
-<h3>💻 Featured Projects</h3>
-
-#### 🧠 Computer Vision & Deep Learning
-| Project | Description | Tech |
-| :--- | :--- | :---: |
-| **Car Type Classification** | Classification using **ResNet**, **VGG**, and **MobileNet** architectures. | `PyTorch` `Deep Learning` |
-| **Face Recognition System** | Automated attendance system leveraging computer vision techniques. | `OpenCV` `FaceRec` |
-| **Sentiment Analysis (RNN)** | Used **Recurrent Neural Networks** to classify text sentiments accurately. | `NLP` `TensorFlow` |
-
-#### 📊 Data Science & Predictive Analytics
-| Project | Description | Tech |
-| :--- | :--- | :---: |
-| **Hotel Booking Pipeline** | Built a cleaning pipeline to predict cancellations and address revenue loss. | `Data Cleaning` `Pipeline` |
-| **Titanic Survival** | Predictive model analyzing socio-economic factors to classify survivor probability. | `Classification` `EDA` |
-| **Diabetes Prediction** | Comparative analysis using Logistic Regression, SVM, and Random Forest. | `Scikit-learn` `ML` |
-| **Telecom Churn** | Predicted customer attrition using **Ensemble Learning** techniques. | `Ensemble` `Analytics` |
-
-#### ⚙️ Algorithms & Applications
-| Project | Description | Tech |
-| :--- | :--- | :---: |
-| **Maze Solver App** | Implemented BFS, DFS, A*, Dijkstra, & Bellman-Ford with an interactive GUI. | `Algorithms` `GUI` |
-| **Timetable Optimization** | Automated scheduling using **Genetic Algorithms** & **Particle Swarm Optimization**. | `Evolutionary AI` |
-| **Expense Tracker** | [cite_start]Finance app with interactive charts to track spending trends over time [cite: 43-45]. | `Pandas` `Streamlit` |
-
-<br/>
-
-<details>
-<summary><b>🏆 Click to view Certifications & Awards</b></summary>
-<br/>
-
-* **AI & Data:** Supervised Learning (DataCamp), Thinking Machines (LinkedIn).
-* **Web:** Frontend Dev (Meta), JavaScript (Meta).
-* **Languages:** DELF A1-B2 (Institut Français).
-
-</details>
+<br />
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=MalakAlaa2004&color=blueviolet" alt="Profile Views" />
 </div>
