@@ -1,41 +1,13 @@
-<div align="center">
-  <img src="https://readme-landing.iron.tools/api/card?name=Malak%20Alaa%20Mohamed&title=AI%20Engineer%20and%20CV%20%7C%20Mobile%20AR%20Specialist&highlight=Energized%20by%20Solving%20Real%20Problems%20with%20AI&theme=tokyonight&fontSize=42"/>
-</div>
+# Malak Alaa Mohamed
+### AI Engineer | Computer Vision & Mobile AR Specialist
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=5E81AC&center=true&vCenter=true&multiline=true&width=800&lines=👩‍💻+AI+Engineer+%7C+Mobile+AR+Specialist;🚀+Building+Clever+ML+%2B+CV+Pipelines+for+the+Real+World;🌍+Cultural+Heritage%2C+Automation%2C+Mobile+AI+and+More;🤖+Passionate+Learner+%26+Community+Builder"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/malak-alaa-1516b1277)
+[![Email](https://img.shields.io/badge/Email-Contact_D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loka.lolo2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=flat-square&logo=kofi&logoColor=white)](https://malakalaa-ai-portfolio-a7h6ox9.gamma.site)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-My%20Publications-4A90E2?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Sn7HrZkAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3044--0217-3ca367?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3044-0217)
 
-<div align="center">
-  <a href="https://linkedin.com/in/malak-alaa-1516b1277">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:loka.lolo2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://malakalaa-ai-portfolio-a7h6ox9.gamma.site">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=kofi&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=Sn7HrZkAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-My%20Publications-4A90E2?style=for-the-badge&logo=google-scholar" />
-  </a>
-  <a href="https://orcid.org/0009-0007-3044-0217">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--3044--0217-3ca367?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MalakAlaa2004&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
-</div>
-
----
-
-## ✨ Project Showcase: AR Cultural Guide Demo
-
-<div align="center">
-  <!-- You can replace the GIF below with your own AR app demo when available! -->
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="AR App Demo - Scanning & AR Overlay" width="600"/>
-  <br>
-  <em><b>TimeLens AR Guide:</b>  
-  Experience history coming alive! Scan, recognize, and explore cultural sites with instant AI-powered overlays and info panels.</em>
-</div>
+*Based in Cairo, Egypt — Building beautiful ML and AR experiences*
 
 ---
 
@@ -151,7 +123,3 @@ I thrive on building machine intelligence that matters—solving real problems w
 - [ORCID](https://orcid.org/0009-0007-3044-0217)
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
