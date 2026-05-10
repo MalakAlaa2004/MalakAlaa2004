@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Malak%20Alaa%20Mohamed&fontSize=65&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Mobile%20AR%20Specialist&descAlign=62"/>
+  <img src="https://readme-landing.iron.tools/api/card?name=Malak%20Alaa%20Mohamed&title=AI%20Engineer%20and%20CV%20%7C%20Mobile%20AR%20Specialist&highlight=Energized%20by%20Solving%20Real%20Problems%20with%20AI&theme=tokyonight&fontSize=42"/>
 </div>
 
 <div align="center">
@@ -16,11 +16,11 @@
   <a href="https://malakalaa-ai-portfolio-a7h6ox9.gamma.site">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+  <a href="https://scholar.google.com/citations?user=Sn7HrZkAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-My%20Publications-4A90E2?style=for-the-badge&logo=google-scholar" />
   </a>
-  <a href="https://orcid.org/YOUR_ORCID_ID">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-3ca367?style=for-the-badge&logo=orcid&logoColor=white" />
+  <a href="https://orcid.org/0009-0007-3044-0217">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--3044--0217-3ca367?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=MalakAlaa2004&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 </div>
@@ -30,11 +30,11 @@
 ## ✨ Project Showcase: AR Cultural Guide Demo
 
 <div align="center">
-  <!-- Replace the link below with your actual AR app GIF or video! -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljd3ExdHh0dGpzbGJ6MWNmc2VmbnJ6dGhmd2dwOHE3aGhkamNkcSZjdD1n/l41lT2RzRBE4NVRhm/giphy.gif" alt="AR Project Demo" width="600"/>
+  <!-- You can replace the GIF below with your own AR app demo when available! -->
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="AR App Demo - Scanning & AR Overlay" width="600"/>
   <br>
   <em><b>TimeLens AR Guide:</b>  
-  See history come alive! Scan, recognize, and explore sites with AI-powered info overlays.</em>
+  Experience history coming alive! Scan, recognize, and explore cultural sites with instant AI-powered overlays and info panels.</em>
 </div>
 
 ---
@@ -147,8 +147,8 @@ I thrive on building machine intelligence that matters—solving real problems w
 - [LinkedIn](https://linkedin.com/in/malak-alaa-1516b1277)  
 - [Portfolio](https://malakalaa-ai-portfolio-a7h6ox9.gamma.site)  
 - [Email](mailto:loka.lolo2004@gmail.com)  
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-- [ORCID](https://orcid.org/YOUR_ORCID_ID)
+- [Google Scholar](https://scholar.google.com/citations?user=Sn7HrZkAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0007-3044-0217)
 
 ---
 
